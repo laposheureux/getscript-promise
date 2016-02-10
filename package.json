@@ -1,6 +1,5 @@
 {
   "name": "getscript-promise",
-  "version": "0.0.1b",
   "description": "Load and exectue a JavaScript file and return a promise.  For use in client JavaScript code. 0.0.1b version uses babel-transformed code.",
   "main": "getscript.js",
   "files": [
